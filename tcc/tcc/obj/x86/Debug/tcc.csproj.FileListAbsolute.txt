@@ -1,0 +1,5 @@
+E:\Users\Samuel\Desktop\tcc\tcc\bin\Debug\tcc.exe
+E:\Users\Samuel\Desktop\tcc\tcc\bin\Debug\tcc.pdb
+E:\Users\Samuel\Desktop\tcc\tcc\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Samuel\Desktop\tcc\tcc\obj\x86\Debug\tcc.exe
+E:\Users\Samuel\Desktop\tcc\tcc\obj\x86\Debug\tcc.pdb
